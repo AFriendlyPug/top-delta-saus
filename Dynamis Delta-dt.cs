@@ -282,7 +282,7 @@ namespace SplatoonScriptsOfficial.Duties.Endwalker.The_Omega_Protocol
                         {
                             if(myTether == Effects.UpcomingBlueTether)
                             {
-                                Alert("Bait near world");
+                                Alert("Go to chill spot");
                             }
                             else
                             {
